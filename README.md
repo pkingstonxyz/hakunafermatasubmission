@@ -25,4 +25,11 @@ My musical idea: A dialup internet handshake
 
 There are several recognizable parts and luckily they're broken up based on a standard. Based on [this](https://oona.windytan.com/posters/dialup-final.png) diagram I'll be going with dial tones, dialing the number(DTMF), the network interaction, and the phase 3 in this image (equalizer and echo transfer).
 
-I think the conversational aspect of it can be played with to 
+I think the conversational aspect of it can be played with so my plan is:
+
+ - Dial tone -> Drone throughout the piece.
+ - Dialing the number -> The tones being played for each number can be used to represent a melody.
+ - Network interaction -> Counter melody/second instrument.
+ - Equalizer and echo transfer -> I think having some ongoing noise in the background could be good.
+
+I don't plan on actually sampling any actual dialup modem interactions because they sound kind of ugly I think. 
