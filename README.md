@@ -28,7 +28,7 @@ There are several recognizable parts and luckily they're broken up based on a st
 I think the conversational aspect of it can be played with so my plan is:
 
  - Dial tone -> Drone throughout the piece.
- - Dialing the number -> The tones being played for each number can be used to represent a melody.
+ - Dialing the number -> The tones being played for each number can be used to represent a melody. Also worth mentioning that the way the dialing looks, it looks very much like "proper" counterpoint.
  - Network interaction -> Counter melody/second instrument.
  - Equalizer and echo transfer -> I think having some ongoing noise in the background could be good.
 
